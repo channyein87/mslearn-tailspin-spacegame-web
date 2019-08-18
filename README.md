@@ -1,4 +1,6 @@
+[![Build Status](https://dev.azure.com/channyein/webgame/_apis/build/status/channyein87.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/channyein/webgame/_build/latest?definitionId=2&branchName=master)
 
+dev.azure.com/channyein87/Web%20Game/_build/latest?definitionId=8&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
